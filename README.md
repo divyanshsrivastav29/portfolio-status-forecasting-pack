@@ -1,128 +1,68 @@
-\# Portfolio Status Forecasting Pack
+# Portfolio Status Forecasting Pack
 
+## Internship Project
 
+This project is being developed as part of my **Data Science Project Coordinator Internship at YuvaIntern**.
 
-\## Project Overview
+The Portfolio Status Forecasting Pack focuses on organizing project portfolio information, tracking project progress, forecasting status, and preparing structured project reports.
 
+## Internship Information
 
+- **Organization:** YuvaIntern
+- **Internship Role:** Data Science Project Coordinator
+- **Internship Duration:** 4 Weeks
+- **Start Date:** 12 November 2026
+- **End Date:** 10 December 2026
+- **Status:** In Progress
 
-The \*\*Portfolio Status Forecasting Pack\*\* is a project designed to organize, monitor, and communicate project portfolio status through structured reporting and forecasting.
+## Project Objectives
 
+- Organize and monitor project portfolio information.
+- Track project progress and status.
+- Support project status forecasting.
+- Prepare structured weekly status reports.
+- Improve project reporting and documentation.
 
-
-It includes an Excel workbook, a sample weekly status and guidance document, and a comprehensive project report.
-
-
-
-\## Project Objectives
-
-
-
-\- Organize project portfolio information.
-
-\- Monitor project progress and status.
-
-\- Support project status forecasting.
-
-\- Improve weekly project reporting.
-
-\- Provide clear reporting documentation.
-
-
-
-\## Project Files
-
-
+## Project Deliverables
 
 | File | Description |
-
 |---|---|
+| Portfolio_Status_Forecasting_Pack.xlsx | Portfolio forecasting workbook |
+| Project_Status_Reporting_Pack_Report.docx | Complete project report |
+| Sample_Weekly_Status_and_Guidance.pdf | Weekly status and guidance document |
 
-| `Portfolio\_Status\_Forecasting\_Pack.xlsx` | Excel workbook for portfolio status forecasting |
+## Tools & Technologies
 
-| `Project\_Status\_Reporting\_Pack\_Report.docx` | Complete project report |
+- Microsoft Excel
+- Microsoft Word
+- PDF Documentation
+- Git and GitHub
 
-| `Sample\_Weekly\_Status\_and\_Guidance.pdf` | Sample weekly status and guidance document |
-
-
-
-\## Tools \& Technologies
-
-
-
-\- Microsoft Excel
-
-\- Microsoft Word
-
-\- PDF Documentation
-
-\- Git \& GitHub
-
-
-
-\## Project Deliverables
-
-
-
-1\. Portfolio Status Forecasting Excel Workbook
-
-2\. Complete Word Project Report
-
-3\. Sample Weekly Status and Guidance PDF
-
-
-
-\## How to Use
-
-
-
-1\. Download or clone this repository.
-
-2\. Open the Excel workbook in Microsoft Excel.
-
-3\. Review the project report for documentation.
-
-4\. Refer to the sample PDF for weekly status reporting guidance.
-
-
-
-\## Repository Structure
-
-
+## Repository Structure
 
 ```text
-
 Portfolio-Status-Forecasting-Pack/
-
 │
-
-├── Portfolio\_Status\_Forecasting\_Pack.xlsx
-
-├── Project\_Status\_Reporting\_Pack\_Report.docx
-
-├── Sample\_Weekly\_Status\_and\_Guidance.pdf
-
+├── Portfolio_Status_Forecasting_Pack.xlsx
+├── Project_Status_Reporting_Pack_Report.docx
+├── Sample_Weekly_Status_and_Guidance.pdf
 └── README.md
-
 ```
 
+## About the Author
 
+**Divyanshu Srivastava**
 
-\## Author
+Data Science Project Coordinator Intern
 
+GitHub: https://github.com/divyanshsrivastav29
 
+## Internship
 
-\*\*Divyanshu Srivastava\*\*
+Organization: YuvaIntern
 
+Internship: Data Science Project Coordinator
 
+## Disclaimer
 
-GitHub: \[@divyanshsrivastav29](https://github.com/divyanshsrivastav29)
-
-
-
-\## License
-
-
-
-This project is available for educational and portfolio demonstration purposes.
-
+This repository contains project deliverables prepared as part of an internship. The internship is currently in progress.
